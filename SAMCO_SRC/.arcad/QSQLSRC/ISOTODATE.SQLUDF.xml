@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mbr_properties>
+	<text>Transfrom num ISO to date</text>
+	<type>SQLUDF</type>
+	<object_type>*SQLUDF</object_type>
+	<source_loc>*L01</source_loc>
+	<object_loc>*L03</object_loc>
+	<sub_system>COM</sub_system>
+	<function>DAT</function>
+</mbr_properties>
